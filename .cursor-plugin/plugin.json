@@ -1,0 +1,24 @@
+{
+  "name": "blazesql",
+  "version": "0.1.0",
+  "description": "Query connected SQL databases with BlazeSQL, inspect schemas, reuse saved analyses, and chart results with OAuth sign-in.",
+  "author": {
+    "name": "BlazeSQL"
+  },
+  "homepage": "https://www.blazesql.com",
+  "repository": "https://github.com/BlazeSQL/blazesql-plugin",
+  "license": "MIT",
+  "keywords": [
+    "blazesql",
+    "sql",
+    "database",
+    "analytics",
+    "business-intelligence",
+    "postgresql",
+    "mysql",
+    "snowflake",
+    "bigquery",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
